@@ -8,7 +8,7 @@
             <b-form-input
               id="email"
               type="email"
-              placeholder="ejemplo@gmail.com"
+              placeholder="pruebadecorreo@gmail.com"
               required
               v-model="loginForm.email"
             ></b-form-input>
@@ -17,7 +17,7 @@
             <b-form-input
               id="password"
               type="password"
-              placeholder="Mi$uperCl4v3"
+              placeholder="123456"
               required
               v-model="loginForm.password"
             ></b-form-input>
